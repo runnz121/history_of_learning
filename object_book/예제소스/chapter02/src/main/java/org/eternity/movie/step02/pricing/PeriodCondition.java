@@ -1,4 +1,4 @@
-package org.eternity.movie.step02.pricing;
+        package org.eternity.movie.step02.pricing;
 
 import org.eternity.movie.step02.DiscountCondition;
 import org.eternity.movie.step02.Screening;
