@@ -182,6 +182,31 @@ public class Main {
         g.fillRect(playerx * TILE_SIZE, playery * TILE_SIZE, TILE_SIZE, TILE_SIZE);
     }
 
+function gameLoop() {
+    let before = Date.now();
+    update();
+    draw();
+    let after = Date.now();
+    let frameTime = after - before;
+    let sleep = SLEEP - frameTime;
+    setTimeout(() => gameLoop(), sleep);
+}
+
+window.onload = () => {
+    gameLoop();
+}
+
+const LEFT_KEY = "ArrowLeft";
+const UP_KEY = "ArrowUp";
+const RIGHT_KEY = "ArrowRight";
+const DOWN_KEY = "ArrowDown";
+window.addEventListener("keydown", e => {
+        if (e.key === LEFT_KEY || e.key === "a") inputs.push(Input.LEFT);
+        else if (e.key === UP_KEY || e.key === "w") inputs.push(Input.UP);
+        else if (e.key === RIGHT_KEY || e.key === "d") inputs.push(Input.RIGHT);
+        else if (e.key === DOWN_KEY || e.key === "s") inputs.push(Input.DOWN);
+    });
+
 
     public static void main(String[] args) {
         System.out.println("Hello world!");
