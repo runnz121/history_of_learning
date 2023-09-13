@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55052102-a3c3-4a80-a429-7603d1ded360" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/five_lines_of_code_book/src/main/java/org/example/chpaters/refactor/Input2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/five_lines_of_code_book/src/main/java/org/example/chpaters/refactor/MainRefactoring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/five_lines_of_code_book/src/main/java/org/example/chpaters/refactor/directions/Down.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/five_lines_of_code_book/src/main/java/org/example/chpaters/refactor/directions/Left.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/five_lines_of_code_book/src/main/java/org/example/chpaters/refactor/directions/Right.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/five_lines_of_code_book/src/main/java/org/example/chpaters/refactor/directions/Up.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/five_lines_of_code_book/내용정리/Chapter4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/object_book/내용정리/Chapter4.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/five_lines_of_code_book/내용정리/Chapter3.md" beforeDir="false" afterPath="$PROJECT_DIR$/five_lines_of_code_book/내용정리/Chapter3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +42,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -73,29 +66,30 @@
     <option name="showScratchesAndConsoles" value="false" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/pupu/Desktop/study/study_solo_java/history/five_lines_of_code_book/예제소스&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-18",
+    "last_opened_file_path": "/Users/pupu/Desktop/study/study_solo_java/history/five_lines_of_code_book/예제소스",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "show.migrate.to.gradle.popup": "false",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/five_lines_of_code_book/예제소스" />
@@ -119,7 +113,7 @@
       <workItem from="1694355731052" duration="128000" />
       <workItem from="1694356645681" duration="15000" />
       <workItem from="1694356740477" duration="6959000" />
-      <workItem from="1694516607466" duration="1822000" />
+      <workItem from="1694516607466" duration="6558000" />
     </task>
     <servers />
   </component>
