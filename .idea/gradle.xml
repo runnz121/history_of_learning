@@ -13,6 +13,15 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ddd_start_book" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ddd_start_book" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/five_lines_of_code_book" />
         <option name="gradleHome" value="" />
         <option name="modules">
@@ -35,6 +44,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/object_book" />
+            <option value="$PROJECT_DIR$/object_book/ddd_start_book" />
             <option value="$PROJECT_DIR$/object_book/five_lines_of_codes" />
           </set>
         </option>
