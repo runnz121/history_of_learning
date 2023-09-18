@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55052102-a3c3-4a80-a429-7603d1ded360" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ddd_start_book/내용정리/Chapter3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next_step/소스코드/jwp-book" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +38,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/five_lines_of_codes_book">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/next_step">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/object_book">
@@ -54,7 +68,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ddd_start_book/소스코드/ddd-start2" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -100,6 +114,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/five_lines_of_code_book/예제소스" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/next_step/소스코드" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PleaseTestConfigurationType" factoryName="PleaseRunConfigurationType.Factory" target="//some:target" pleaseRoot="" pleaseArgs="" tests="">
@@ -119,7 +136,7 @@
       <workItem from="1694355731052" duration="128000" />
       <workItem from="1694356645681" duration="15000" />
       <workItem from="1694356740477" duration="6959000" />
-      <workItem from="1694516607466" duration="15727000" />
+      <workItem from="1694516607466" duration="17055000" />
     </task>
     <servers />
   </component>
