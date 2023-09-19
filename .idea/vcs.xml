@@ -3,6 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ddd_start_book/소스코드/ddd-start2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/next_step/소스코드/jwp-book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/next_step_book/소스코드/jwp-book" vcs="Git" />
   </component>
 </project>
