@@ -2,7 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="object_book.ddd_start_book" target="18" />
+      <module name="object_book.ddd_start_book.main" target="18" />
+      <module name="object_book.ddd_start_book.test" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
